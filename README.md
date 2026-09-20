@@ -2,7 +2,7 @@
 
 > 从真实业务问题出发，把最小闭环做成可验证、可上线、可持续使用的系统。
 
-**[View Live Demo · 在线阅读](https://parr031010-coder.github.io/FDe-fullstack-delivery/)** · [查看 HTML 源文件](index.html)
+**[在线预览 →](https://parr031010-coder.github.io/FDe-fullstack-delivery/)**
 
 [![FDE × 全栈工程交付 — 最新版页面预览](assets/preview.png)](https://parr031010-coder.github.io/FDe-fullstack-delivery/)
 
@@ -41,11 +41,11 @@
 
 ## 在线预览
 
-**[点击这里打开完整网页 →](https://parr031010-coder.github.io/FDe-fullstack-delivery/)**
+**[在线预览 →](https://parr031010-coder.github.io/FDe-fullstack-delivery/)**
 
 无需下载文件、安装软件或启动本地服务，直接在浏览器中打开即可阅读。
 
-- 顶部的 **View Live Demo · 在线阅读** 和预览截图均可点击进入正式网页。
+- 顶部的 **在线预览** 和预览截图均可点击进入正式网页。
 - GitHub 文件列表中的 `index.html` 是源文件入口；阅读排版后的完整文档，请使用上方在线预览链接。
 
 ## 仓库结构
